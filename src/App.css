@@ -1,0 +1,51 @@
+/* App.css */
+.page {
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background: var(--gradient-text);
+}
+
+.Task-List {
+  margin-top: 20px;
+  background: var(--gradient-bar);
+}
+
+h1 {
+  font-size: 40px;
+  margin-right: auto; /* Push "Sales Log" to the left */
+  /* color: var(--gradient-h1); */
+}
+.table-container {
+  background: var(--gradient-bar);
+  
+}
+
+.first-row {
+  background: var(--gradient-h1);
+}
+
+.table-row {
+  font-family: var(--font-family);
+}
+.sort-add-buttons {
+  display: flex;
+  width: 300px;
+  gap: 20px;
+  align-items: center; /* Vertically align the content */
+}
+
+.add-task-button {
+  white-space: nowrap; /* Prevent line breaks within the button */
+}
+
+.input-field {
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.edit-form-buttons {
+  display: flex;
+  justify-content: space-between; /* Add space between buttons */
+  margin-top: 10px; /* Add margin at the top of the buttons */
+}

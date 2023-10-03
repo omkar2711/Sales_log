@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "date": "2023-10-01",
+      "companyName": "ABC Corp",
+      "taskType": "Meeting",
+      "time": "10:00",
+      "contactPerson": "Team Member 1",
+      "note": "Discuss project details",
+      "status": "Closed"
+    },
+    {
+      "id": 2,
+      "date": "2023-10-02",
+      "companyName": "XYZ Inc",
+      "taskType": "Call",
+      "time": "14:30",
+      "contactPerson": "Team Member 2",
+      "note": "Follow up on proposal",
+      "status": "Open"
+    },
+    {
+      "id": 3,
+      "date": "2023-10-03",
+      "companyName": "LMN Ltd",
+      "taskType": "Call",
+      "time": "11:15",
+      "contactPerson": "Team Member 3",
+      "note": "Discuss pricing",
+      "status": "Closed"
+    },
+    {
+      "id": 4,
+      "date": "2023-10-04",
+      "companyName": "PQR Corp",
+      "taskType": "Meeting",
+      "time": "10:30",
+      "contactPerson": "Team Member 3",
+      "note": "Presentation",
+      "status": "Open"
+    },
+    {
+      "id": 5,
+      "date": "2023-10-05",
+      "companyName": "XYZ Inc",
+      "taskType": "Video Call",
+      "time": "15:45",
+      "contactPerson": "Team Member 4",
+      "note": "Discuss contract",
+      "status": "Open"
+    },
+    {
+      "id": 6,
+      "date": "2023-10-06",
+      "companyName": "ABC Corp",
+      "taskType": "Meeting",
+      "time": "09:30",
+      "contactPerson": "Team Member 2",
+      "note": "Project review",
+      "status": "Open"
+    },
+    {
+      "id": 7,
+      "date": "2023-10-07",
+      "companyName": "LMN Ltd",
+      "taskType": "Call",
+      "time": "14:00",
+      "contactPerson": "Team Member 1",
+      "note": "Negotiations",
+      "status": "Closed"
+    },
+    {
+      "id": 8,
+      "date": "2023-10-08",
+      "companyName": "XYZ Inc",
+      "taskType": "Meeting",
+      "time": "11:30",
+      "contactPerson": "Team Member 4",
+      "note": "Strategy discussion",
+      "status": "Open"
+    },
+    {
+      "id": 9,
+      "date": "2023-10-09",
+      "companyName": "PQR Corp",
+      "taskType": "Call",
+      "time": "16:15",
+      "contactPerson": "Team Member 2",
+      "note": "Product demo",
+      "status": "Open"
+    },
+    {
+      "id": 10,
+      "date": "2023-10-10",
+      "companyName": "ABC Corp",
+      "taskType": "Meeting",
+      "time": "15:00",
+      "contactPerson": "Team Member 3",
+      "note": "Budget discussion",
+      "status": "Open"
+    }
+]
